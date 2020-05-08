@@ -1,0 +1,68 @@
+.info {
+  display: flex;
+  text-transform: uppercase;
+}
+.info-title {
+  font-size: 12px;
+}
+.value {
+  font-weight: 700;
+  font-size: 12px;
+  padding: 0 5px;
+}
+.blog-post {
+  margin: 30px 0;
+}
+.sidebar {
+  margin: 20px 0 !important;
+}
+.bg {
+  margin: 50px 0;
+}
+
+.clients {
+  border-top: 2px solid rgba(23, 23, 26, 0.1);
+  text-align: center;
+}
+
+.clients h5,
+.clients p {
+  position: relative;
+  top: -3rem;
+}
+
+.clients h5 span,
+.clients p span {
+  background-color:#f1f2f4;
+  padding: 0 2.4rem;
+  border : 2px solid rgba(23, 23, 26, 0.1)
+}
+
+
+.clients p {
+  clear: both;
+  text-transform: none;
+  color: rgba(23,23,26,.6);
+  position: relative;
+  top: 3rem;
+  padding-bottom: 3.6rem;
+  font-family: Calibre-Light,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+@media only screen and (min-width: 960px) {
+  .clients {
+    margin: 4.8rem auto;
+    max-width: 108rem;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .clients{
+    margin: 3.6rem;
+  }
+}
+.clients{
+  text-align: center;
+  padding: 1.8rem 0;
+}
