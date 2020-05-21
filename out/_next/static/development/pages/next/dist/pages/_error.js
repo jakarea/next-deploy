@@ -165,14 +165,14 @@ eval("var arrayLikeToArray = __webpack_require__(/*! ./arrayLikeToArray */ \"./n
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FVolumes%2FDevelopment%2Fnext%2Fnext-protfolio%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js!./":
-/*!******************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FVolumes%2FDevelopment%2Fnext%2Fnext-protfolio%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js ***!
-  \******************************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FVolumes%2FDevelopment%2Fnext%2Fnext-deploy%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js!./":
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FVolumes%2FDevelopment%2Fnext%2Fnext-deploy%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js ***!
+  \***************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("\n    (window.__NEXT_P = window.__NEXT_P || []).push([\n      \"/next/dist/pages/_error\",\n      function () {\n        return __webpack_require__(/*! ./node_modules/next/dist/pages/_error.js */ \"./node_modules/next/dist/pages/_error.js\");\n      }\n    ]);\n  //# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWNsaWVudC1wYWdlcy1sb2FkZXIuanM/ZWYwNyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQ0E7QUFDQTtBQUNBO0FBQ0EsZUFBZSxtQkFBTyxDQUFDLDBGQUFpRjtBQUN4RztBQUNBIiwiZmlsZSI6Ii4vbm9kZV9tb2R1bGVzL25leHQvZGlzdC9idWlsZC93ZWJwYWNrL2xvYWRlcnMvbmV4dC1jbGllbnQtcGFnZXMtbG9hZGVyLmpzP3BhZ2U9JTJGbmV4dCUyRmRpc3QlMkZwYWdlcyUyRl9lcnJvciZhYnNvbHV0ZVBhZ2VQYXRoPSUyRlZvbHVtZXMlMkZEZXZlbG9wbWVudCUyRm5leHQlMkZuZXh0LXByb3Rmb2xpbyUyRm5vZGVfbW9kdWxlcyUyRm5leHQlMkZkaXN0JTJGcGFnZXMlMkZfZXJyb3IuanMhLi8uanMiLCJzb3VyY2VzQ29udGVudCI6WyJcbiAgICAod2luZG93Ll9fTkVYVF9QID0gd2luZG93Ll9fTkVYVF9QIHx8IFtdKS5wdXNoKFtcbiAgICAgIFwiL25leHQvZGlzdC9wYWdlcy9fZXJyb3JcIixcbiAgICAgIGZ1bmN0aW9uICgpIHtcbiAgICAgICAgcmV0dXJuIHJlcXVpcmUoXCIvVm9sdW1lcy9EZXZlbG9wbWVudC9uZXh0L25leHQtcHJvdGZvbGlvL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvcGFnZXMvX2Vycm9yLmpzXCIpO1xuICAgICAgfVxuICAgIF0pO1xuICAiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FVolumes%2FDevelopment%2Fnext%2Fnext-protfolio%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js!./\n");
+eval("\n    (window.__NEXT_P = window.__NEXT_P || []).push([\n      \"/next/dist/pages/_error\",\n      function () {\n        return __webpack_require__(/*! ./node_modules/next/dist/pages/_error.js */ \"./node_modules/next/dist/pages/_error.js\");\n      }\n    ]);\n  //# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWNsaWVudC1wYWdlcy1sb2FkZXIuanM/OWY2ZSJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQ0E7QUFDQTtBQUNBO0FBQ0EsZUFBZSxtQkFBTyxDQUFDLDBGQUE4RTtBQUNyRztBQUNBIiwiZmlsZSI6Ii4vbm9kZV9tb2R1bGVzL25leHQvZGlzdC9idWlsZC93ZWJwYWNrL2xvYWRlcnMvbmV4dC1jbGllbnQtcGFnZXMtbG9hZGVyLmpzP3BhZ2U9JTJGbmV4dCUyRmRpc3QlMkZwYWdlcyUyRl9lcnJvciZhYnNvbHV0ZVBhZ2VQYXRoPSUyRlZvbHVtZXMlMkZEZXZlbG9wbWVudCUyRm5leHQlMkZuZXh0LWRlcGxveSUyRm5vZGVfbW9kdWxlcyUyRm5leHQlMkZkaXN0JTJGcGFnZXMlMkZfZXJyb3IuanMhLi8uanMiLCJzb3VyY2VzQ29udGVudCI6WyJcbiAgICAod2luZG93Ll9fTkVYVF9QID0gd2luZG93Ll9fTkVYVF9QIHx8IFtdKS5wdXNoKFtcbiAgICAgIFwiL25leHQvZGlzdC9wYWdlcy9fZXJyb3JcIixcbiAgICAgIGZ1bmN0aW9uICgpIHtcbiAgICAgICAgcmV0dXJuIHJlcXVpcmUoXCIvVm9sdW1lcy9EZXZlbG9wbWVudC9uZXh0L25leHQtZGVwbG95L25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvcGFnZXMvX2Vycm9yLmpzXCIpO1xuICAgICAgfVxuICAgIF0pO1xuICAiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FVolumes%2FDevelopment%2Fnext%2Fnext-deploy%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js!./\n");
 
 /***/ }),
 
@@ -270,14 +270,14 @@ eval("module.exports = function(module) {\n\tif (!module.webpackPolyfill) {\n\t\
 
 /***/ }),
 
-/***/ 6:
-/*!**********************************************************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FVolumes%2FDevelopment%2Fnext%2Fnext-protfolio%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js ***!
-  \**********************************************************************************************************************************************************************************************/
+/***/ 1:
+/*!*******************************************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FVolumes%2FDevelopment%2Fnext%2Fnext-deploy%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js ***!
+  \*******************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FVolumes%2FDevelopment%2Fnext%2Fnext-protfolio%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FVolumes%2FDevelopment%2Fnext%2Fnext-protfolio%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FVolumes%2FDevelopment%2Fnext%2Fnext-deploy%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FVolumes%2FDevelopment%2Fnext%2Fnext-deploy%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js!./");
 
 
 /***/ }),
@@ -293,4 +293,4 @@ eval("module.exports = dll_5030f387d328e4415785;//# sourceURL=[module]\n//# sour
 
 /***/ })
 
-},[[6,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
